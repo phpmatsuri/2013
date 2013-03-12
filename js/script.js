@@ -1,5 +1,5 @@
 $(document).ready(function() { 
-	$(".list-services .tooltips").easyTooltip();
+	$(".list-services .tooltips, ul.menu .tooltips").easyTooltip();
 }); 
 
 $(window).load(function() {
