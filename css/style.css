@@ -412,7 +412,7 @@ article.sponsor .silver img {
 /****************************footer************************/
 footer {
 	width:100%; 
-	height:130px;
+	height:170px;
 	background:url(../images/footer-tail.png) center top repeat;
 	position:relative;
 	overflow:hidden;
@@ -421,8 +421,19 @@ footer {
 	footer .padding {padding:27px 0;}
 	footer .staff-icon li {
 		float: left;
-		padding: 0 5px;
+		padding: 5px 5px;
+		width: 48px;
+		height: 48px;
+		overflow: hidden;
 	}
+		footer .staff-icon li img {
+			background: #ffffff;
+			border-radius: 8px;
+			-moz-border-radius: 8px;
+			-webkit-border-radius: 8px;
+			-o-border-radius: 8px;
+			-ms-border-radius: 8px;	
+		}
 	
 .footer-text {
 	font-size:14px;
