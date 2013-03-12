@@ -338,8 +338,11 @@ h6 {color:#4c4c4c;}
 
 dl span {float:left; width:79px;}
 
-article.sponsor ul li {
-	display: inline-block;
+article.sponsor ul {
+	clear: both;
+}
+article.sponsor li {
+	float: left;
 	padding: 5px;
 }
 article.sponsor .platinum img {
