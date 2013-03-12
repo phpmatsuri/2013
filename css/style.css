@@ -112,8 +112,7 @@ h1 {
 		width:400px;
 		height:69px;
 		color: #e6e6e6;
-		background: url(../images/logo.png) left top no-repeat;
-		background-size: 125px;
+		background: url(../images/logo.png) left -10px no-repeat;
 		padding-left: 150px;
 	}
 		h1 a .title {
