@@ -10,4 +10,8 @@ $(window).load(function() {
 		slideshow:30000,
 		spinner:'.bg_spinner'
 	});
+
+	$('.blog_news').load('partial/news_blog.html');
+	$('.staff_icons').load('partial/staff.html');
+
 });
