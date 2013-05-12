@@ -353,8 +353,10 @@ article.sponsor li {
 	float: left;
 	padding: 5px;
 }
+
 article.sponsor .platinum img {
 	width: 210px;
+	background: #ffffff;
 }
 article.sponsor .gold img {
 	width: 210px;
