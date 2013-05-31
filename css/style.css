@@ -370,6 +370,10 @@ article.timetable .speaker img {
 	background: #ffffff;
 }
 
+article.timetable .speaker h6 {
+	line-height: 3em;
+}
+
 article.timetable table {
 	width: 100%;
 	border: 1px solid #000000;
