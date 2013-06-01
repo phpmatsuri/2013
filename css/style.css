@@ -365,6 +365,35 @@ article.sponsor .silver img {
 }
 
 
+article.timetable .speaker img {
+	width: 200px;
+	background: #ffffff;
+}
+
+article.timetable .speaker h6 {
+	line-height: 3em;
+}
+
+article.timetable table {
+	width: 100%;
+	border: 1px solid #000000;
+}
+
+article.timetable table thead th {
+	border: 1px solid #000000;
+	background: #010101;
+	color: #ffffff;
+	line-height: 2em;
+}
+
+article.timetable table tbody td {
+	border: 1px solid #000000;
+	padding: 5px;
+}
+
+article.timetable table tbody td.rest {
+}
+
 /***** contact form *****/
 #contact-form {display:block;}
 	#contact-form label {
