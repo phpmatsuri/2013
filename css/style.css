@@ -394,6 +394,11 @@ article.timetable table tbody td {
 article.timetable table tbody td.rest {
 }
 
+article.timetable table tbody td ul {
+	padding-left: 2em;
+	list-style: disc;
+}
+
 /***** contact form *****/
 #contact-form {display:block;}
 	#contact-form label {
