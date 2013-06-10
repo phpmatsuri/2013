@@ -391,7 +391,16 @@ article.timetable table tbody td {
 	padding: 5px;
 }
 
-article.timetable table tbody td.rest {
+article.timetable table tbody td p {
+	margin: 0 0 0 0;
+	border-left: 8px solid #858BBA;
+	padding-left: 4px;
+}
+article.timetable table tbody td.rest p {
+	border-left: 8px solid #90ee90;
+}
+article.timetable table tbody td.hack p {
+	border-left: 8px solid #ff69b4;
 }
 
 article.timetable table tbody td ul {
